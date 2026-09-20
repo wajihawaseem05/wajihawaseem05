@@ -7,8 +7,13 @@ Data I work with is often confidential. So some of my projects here are syntheti
 ### Toolkit
 I primarily work with Excel, Python, SQL, Claude and Figma.
 
-### Other
-When I am not choosing the best research methodology to analyze data, I am dedicating my time to animal rescue efforts.  
+### Things I care about
+- Higher Education Technology
+- Institutional Advancement
+- Student Sucess
+- Social Justice Research
+- When I am not choosing the best research methodology to analyze data, I am dedicating my time to animal rescue efforts. I have 3 lovely cats.
+    
 ### Reach Out! 
 - linkedin: www.linkedin.com/in/wajiha-waseem
 - email: wajiha.waseem23@gmail.com
