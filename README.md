@@ -1,6 +1,6 @@
-## Hi there 
+## Hi there, I'm Wajiha
 
-I'm Wajiha. I'm a Data Analyst with the Social Science Division at NYU, where I build the datasets behind faculty research on labor, migration and public policy.
+I'm a Data Analyst with the Social Science Division at NYU, where I build the datasets behind faculty research on labor, migration and public policy.
 
 I primarily work with Excel, Python, SQL, Claude and Figma. 
 
