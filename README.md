@@ -7,6 +7,7 @@ I primarily work with Excel, Python, SQL, Claude and Figma.
 Data I work with is often confidential. So some of my projects here are synthetic recreations to showcase analysis approach. 
 
 When I am not choosing the best research methodology to analyze data, I am dedicating my time to animal rescue efforts.  
+
 Reach out to me on my LinkedIn at linkedin.com/in/wajiha-waseem or email me at wajiha.waseem23@gmail.com
 
 <!--
