@@ -10,9 +10,8 @@ I primarily work with Excel, Python, SQL, Claude and Figma.
 ### Things I care about
 - Higher Education Technology
 - Institutional Advancement
-- Student Sucess
-- Social Justice Research
-- When I am not choosing the best research methodology to analyze data, I am dedicating my time to animal rescue efforts. I have 3 lovely cats.
+- Animal Rescue Efforts
+- My 3 lovely cats.
     
 ### Reach Out! 
 - linkedin: www.linkedin.com/in/wajiha-waseem
