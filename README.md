@@ -1,11 +1,13 @@
 ## Hi there, I'm Wajiha
 
 I'm a Data Analyst with the Social Science Division at NYU, where I build the datasets behind faculty research on labor, migration and public policy.
+
 Data I work with is often confidential. So some of my projects here are synthetic recreations to showcase analysis approach. 
 
 ### Toolkit
-I primarily work with Excel, Python, SQL, Claude and Figma. 
+I primarily work with Excel, Python, SQL, Claude and Figma.
 
+### Other
 When I am not choosing the best research methodology to analyze data, I am dedicating my time to animal rescue efforts.  
 ### Reach Out! 
 - linkedin: linkedin.com/in/wajiha-waseem 
