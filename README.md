@@ -10,7 +10,7 @@ I primarily work with Excel, Python, SQL, Claude and Figma.
 ### Other
 When I am not choosing the best research methodology to analyze data, I am dedicating my time to animal rescue efforts.  
 ### Reach Out! 
-- linkedin: linkedin.com/in/wajiha-waseem 
+- linkedin: www.linkedin.com/in/wajiha-waseem
 - email: wajiha.waseem23@gmail.com
 
 <!--
