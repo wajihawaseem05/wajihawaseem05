@@ -16,6 +16,7 @@ I primarily work with Excel, Python, SQL, Claude and Figma.
 ### Reach Out! 
 - linkedin: www.linkedin.com/in/wajiha-waseem
 - email: wajiha.waseem23@gmail.com
+- website: https://wajihawaseem05.github.io/
 
 <!--
 **wajihawaseem05/wajihawaseem05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
